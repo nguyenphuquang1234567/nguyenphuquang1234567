@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="480" viewBox="0 0 1280 480" role="img" aria-labelledby="title desc">
+<title id="title">Nguyen Phu Quang — Enter the Neon Arcade</title>
+<desc id="desc">Dark cyberpunk skyline, cyan and magenta neon, perspective arcade grid and a game controller.</desc>
+<defs>
+<linearGradient id="bg" x2="1" y2="1"><stop stop-color="#080b18"/><stop offset=".6" stop-color="#15102c"/><stop offset="1" stop-color="#080b18"/></linearGradient>
+<linearGradient id="neon"><stop stop-color="#23f7ee"/><stop offset=".5" stop-color="#a68aff"/><stop offset="1" stop-color="#ff48c4"/></linearGradient>
+<radialGradient id="halo"><stop stop-color="#bd36ec" stop-opacity=".27"/><stop offset="1" stop-color="#bd36ec" stop-opacity="0"/></radialGradient>
+<pattern id="scan" width="4" height="6" patternUnits="userSpaceOnUse"><path d="M0 0H4" stroke="#fff" stroke-opacity=".025"/></pattern>
+</defs>
+<rect width="1280" height="480" rx="20" fill="url(#bg)"/>
+<ellipse cx="1040" cy="195" rx="300" ry="240" fill="url(#halo)"/>
+<g fill="#10152a" stroke="#463465" stroke-width="1">
+<path d="M760 332V220h48v-62h50v174m10 0V195h58v-80h22v217m12 0V230h55v-49h53v151m14 0V138h30v-30h38v224m15 0V204h57v-42h39v170m12 0V246h49v86"/>
+</g>
+<g stroke="#ad53d8" opacity=".45"><path d="M882 212h24m-24 12h24m-24 12h24m199-76h37m-37 13h37m-37 13h37m69 41h29m-29 13h29"/></g>
+<g stroke="#6843ad" opacity=".38" fill="none">
+<path d="M0 348H1280M0 372H1280M0 408H1280M0 459H1280"/>
+<path d="M640 332L0 480m640-148L190 480m450-148L410 480m230-148v148m0-148L870 480M640 332l450 148M640 332l640 148"/>
+</g>
+<path d="M32 30h116l13 13h180M32 30v65M1248 385v63h-110l-15-15h-160" fill="none" stroke="url(#neon)" stroke-width="2"/>
+<path d="M42 86V53h28M1210 402v23h-28" fill="none" stroke="#23f7ee" stroke-width="3"/>
+<g font-family="monospace">
+<text x="70" y="103" fill="#23f7ee" font-size="14" letter-spacing="4">PLAYER PROFILE / NGUYENPHUQUANG1234567</text>
+<text x="68" y="184" fill="#ff48c4" opacity=".55" font-size="58" font-weight="bold">NGUYEN PHU QUANG</text>
+<text x="70" y="181" fill="#f2f5ff" font-size="58" font-weight="bold">NGUYEN PHU QUANG</text>
+<text x="73" y="229" fill="#b9b6d6" font-size="19" letter-spacing="4">ENTER THE NEON ARCADE</text>
+<text x="73" y="282" fill="#23f7ee" font-size="15">GAMES</text><text x="147" y="282" fill="#70658b" font-size="15">/</text>
+<text x="172" y="282" fill="#d1baff" font-size="15">TOOLS</text><text x="247" y="282" fill="#70658b" font-size="15">/</text>
+<text x="272" y="282" fill="#ff72cf" font-size="15">EXPERIMENTS</text>
+<text x="72" y="406" fill="#9ba6be" font-size="13" letter-spacing="2">BUILD. PLAY. ITERATE.</text>
+<text x="1110" y="406" fill="#23f7ee" font-size="12">[ START ]</text>
+</g>
+<g transform="translate(930 220)" fill="none" stroke-linejoin="round">
+<path d="M26 8C3 8-8 35-14 62s10 43 27 27l22-21h77l22 21c17 16 33 0 27-27S144 8 121 8Z" stroke="#ff48c4" stroke-width="9" opacity=".16"/>
+<path d="M26 8C3 8-8 35-14 62s10 43 27 27l22-21h77l22 21c17 16 33 0 27-27S144 8 121 8Z" fill="#101427" stroke="url(#neon)" stroke-width="3"/>
+<path d="M30 28v30m-15-15h30" stroke="#23f7ee" stroke-width="7"/>
+<circle cx="117" cy="31" r="5" fill="#ff48c4"/><circle cx="130" cy="44" r="5" fill="#a68aff"/>
+<circle cx="104" cy="44" r="5" fill="#a68aff"/><circle cx="117" cy="57" r="5" fill="#23f7ee"/>
+<path d="M66 42h15" stroke="#66738e" stroke-width="3"/>
+</g>
+<rect width="1280" height="480" rx="20" fill="url(#scan)"/>
+<path d="M70 317h530" stroke="url(#neon)" stroke-width="2"/>
+</svg>
